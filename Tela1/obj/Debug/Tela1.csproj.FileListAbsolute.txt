@@ -1,0 +1,10 @@
+C:\Users\Patty\Google Drive\Treinamento C#\TelasProjeto02\Tela1\obj\Debug\Tela1.csprojAssemblyReference.cache
+C:\Users\Patty\Google Drive\Treinamento C#\TelasProjeto02\Tela1\obj\Debug\Tela1.Form1.resources
+C:\Users\Patty\Google Drive\Treinamento C#\TelasProjeto02\Tela1\obj\Debug\Tela1.Properties.Resources.resources
+C:\Users\Patty\Google Drive\Treinamento C#\TelasProjeto02\Tela1\obj\Debug\Tela1.csproj.GenerateResource.cache
+C:\Users\Patty\Google Drive\Treinamento C#\TelasProjeto02\Tela1\obj\Debug\Tela1.csproj.CoreCompileInputs.cache
+C:\Users\Patty\Google Drive\Treinamento C#\TelasProjeto02\Tela1\bin\Debug\Tela1.exe.config
+C:\Users\Patty\Google Drive\Treinamento C#\TelasProjeto02\Tela1\bin\Debug\Tela1.exe
+C:\Users\Patty\Google Drive\Treinamento C#\TelasProjeto02\Tela1\bin\Debug\Tela1.pdb
+C:\Users\Patty\Google Drive\Treinamento C#\TelasProjeto02\Tela1\obj\Debug\Tela1.exe
+C:\Users\Patty\Google Drive\Treinamento C#\TelasProjeto02\Tela1\obj\Debug\Tela1.pdb

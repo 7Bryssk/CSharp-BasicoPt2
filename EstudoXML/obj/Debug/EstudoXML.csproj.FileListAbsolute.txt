@@ -1,0 +1,11 @@
+C:\Users\Patty\Google Drive\Treinamento C#\TelasProjeto02\EstudoXML\bin\Debug\EstudoXML.exe.config
+C:\Users\Patty\Google Drive\Treinamento C#\TelasProjeto02\EstudoXML\bin\Debug\EstudoXML.exe
+C:\Users\Patty\Google Drive\Treinamento C#\TelasProjeto02\EstudoXML\bin\Debug\EstudoXML.pdb
+C:\Users\Patty\Google Drive\Treinamento C#\TelasProjeto02\EstudoXML\obj\Debug\EstudoXML.csprojAssemblyReference.cache
+C:\Users\Patty\Google Drive\Treinamento C#\TelasProjeto02\EstudoXML\obj\Debug\EstudoXML.Properties.Resources.resources
+C:\Users\Patty\Google Drive\Treinamento C#\TelasProjeto02\EstudoXML\obj\Debug\EstudoXML.csproj.GenerateResource.cache
+C:\Users\Patty\Google Drive\Treinamento C#\TelasProjeto02\EstudoXML\obj\Debug\EstudoXML.csproj.CoreCompileInputs.cache
+C:\Users\Patty\Google Drive\Treinamento C#\TelasProjeto02\EstudoXML\obj\Debug\EstudoXML.exe
+C:\Users\Patty\Google Drive\Treinamento C#\TelasProjeto02\EstudoXML\obj\Debug\EstudoXML.pdb
+C:\Users\Patty\Google Drive\Treinamento C#\TelasProjeto02\EstudoXML\obj\Debug\EstudoXML.frmAgenda.resources
+C:\Users\Patty\Google Drive\Treinamento C#\TelasProjeto02\EstudoXML\obj\Debug\EstudoXML.Form2.resources
